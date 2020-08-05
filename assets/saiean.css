@@ -1,0 +1,75 @@
+@font-face {
+  font-family: 'saeian';
+  src:  url('saiean/saeian.eot?cnkfhz');
+  src:  url('saiean/saeian.eot?cnkfhz#iefix') format('embedded-opentype'),
+    url('saiean/saeian.ttf?cnkfhz') format('truetype'),
+    url('saiean/saeian.woff?cnkfhz') format('woff'),
+    url('saiean/saeian.svg?cnkfhz#saeian') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'saeian' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-address-card .path1:before {
+  content: "\e900";
+  color: rgb(0, 0, 0);
+  opacity: 0.4;
+}
+.icon-address-card .path2:before {
+  content: "\e901";
+  margin-left: -1.125em;
+  color: rgb(0, 0, 0);
+}
+.icon-cogs .path1:before {
+  content: "\e902";
+  color: rgb(0, 0, 0);
+  opacity: 0.4;
+}
+.icon-cogs .path2:before {
+  content: "\e903";
+  margin-left: -1.25em;
+  color: rgb(0, 0, 0);
+}
+.icon-file-search .path1:before {
+  content: "\e904";
+  color: rgb(0, 0, 0);
+  opacity: 0.4;
+}
+.icon-file-search .path2:before {
+  content: "\e905";
+  margin-left: -1.25em;
+  color: rgb(0, 0, 0);
+}
+.icon-home .path1:before {
+  content: "\e906";
+  color: rgb(0, 0, 0);
+  opacity: 0.4;
+}
+.icon-home .path2:before {
+  content: "\e907";
+  margin-left: -1.125em;
+  color: rgb(0, 0, 0);
+}
+.icon-instagram:before {
+  content: "\e908";
+}
+.icon-telegram-plane:before {
+  content: "\e909";
+}
+.icon-whatsapp:before {
+  content: "\e90a";
+}

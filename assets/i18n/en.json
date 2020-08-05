@@ -1,0 +1,62 @@
+{
+  "errorPage": {
+    "title": "Page Not Found",
+    "desc": "Page Not Found"
+  },
+  "homePage": {
+    "title": "Home Page",
+    "desc": "Download Movies"
+  },
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "project_alireza": "Alireza",
+    "project_amirali": "Amirali",
+    "project_cafezohreh": "Cafe Zohreh",
+    "project_zohrehshopping": "Zohreh Shopping Center",
+    "projects": "Projects",
+    "language": "Language",
+    "color": "Color",
+    "default-theme": "Blue",
+    "orange-theme": "Orange",
+    "english": "English",
+    "farsi": "Farsi"
+  },
+  "data": {
+    "contact_us_text": "Contact US",
+    "about_us_text": "About US",
+    "document_text": "Documents",
+    "text_1": "Saeian Middle East International Trading Company with limited liability with registration number 17424 and national ID 10860826244 was registered in Ahvaz on 17-01-2004 and also registered in Tehran branch on 26-10-2017 \n From the beginning, this company has been operating in the field of export and import in 2005 in cooperation with Marzanshinan Cooperative Company No. 2 of Imam Khomeini Port.  During this partnership, the company has managed to export and import more than $ 20 million to the countries of Iraq - UAE - Oman. \n If the other activity of this company is in the field of construction of residential and commercial complexes in Ahvaz city, for example (residential complex 118, Golestan - Zohreh commercial complex, Zaytoun Karmandi - Amir Ali residential complex, Chaharshir - Ali Reza residential complex, Kourosh  - Mohammad Reza residential complex, Zaytoun and other projects ...). \n  Another activity of this company is the construction of a luxurious restaurant cafe called Zohreh Restaurant Cafe located in the zeytoun region of Ahvaz, which has been very well received by this large and luxurious complex."
+  },
+  "company": {
+    "name": "Saeian Middle East Co., Ltd",
+    "address_1": "Central Branch: Iran - Ahvaz - Zaytoun Karmandi - Zohreh St. Corner of Bouali St. - Zohreh Commercial Center - Fourth Floor",
+    "address_2": "Tehran Branch: Iran - Tehran - Tehranpars - Shahid Qomi St. - No. 122"
+  },
+  "instagram": "https://instagram.com/zohrehcafe",
+  "instagram_text": " Instagram ",
+  "whatsapp": "https://wa.me/989169898980",
+  "whatsapp_text": " WhatsApp ",
+  "telegram": "https://t.me/cafezohreh",
+  "telegram_text": " Telegram ",
+  "copyright": "Copyright Saeian",
+  "scroll": {
+    "alireza": "Alireza",
+    "amirali": "Amir Ali",
+    "cafezohreh": "Cafe Zohreh",
+    "zohreshhopping": "Zohreh Shopping Center"
+  },
+  "aboutPages": {
+    "alirezaAbout": "About Alireza Project",
+    "alirezaDesc_1": "Ali Reza residential complex is located in the densely populated area of ​​Kourosh, Ahvaz.  Cyrus region has various markets and commercial centers that are a good place to live.  The complex consists of 7 floors, of which 6 are residential and one is parking.  The area of ​​each unit is 125 square meters.  Construction of a residential complex began in 2018 and ended in 2019",
+
+    "amiraliAbout": "About Amirali Project",
+    "amiraliDesc_1": " This complex is located in Chaharshir region of Ahvaz.  This residential complex consists of 8 floors, of which 7 are residential and one is parking.  The area of ​​the units is 126 square meters. \n Complete facilities and up-to-date construction are the features of this residential complex.  Construction of this residential complex began in 2019 and ended in 2020",
+
+    "cafezohrehAbout": "About Cafe Zohreh Project",
+    "cafezohrehDesc_1": " This cafe-restaurant is a unique combination of beautiful nature, waterfalls and fountains and live music that with its delicious food can create happy moments for you dear ones. \n This complex is located in Zohreh commercial center on the fourth floor in the zeytoun region of Ahvaz.  Construction of this restaurant began in 2014 and opened in 2015 , which is currently one of the best restaurants in Ahvaz.",
+
+    "zohrehshoppingAbout": "About Zohreh Shopping Center Project",
+    "zohrehshoppingDesc_1": " The Zohreh project is located in the densely populated area of ​​Ahvaz.  The mall is located on one of the busiest shopping streets in the zeytoun area. \n Ground floor and upper floors include commercial shops in different dimensions from 15 meters to 50 meters.  On the fourth floor of this shopping center is a large food court.  Construction of this commercial center began in 2012 and ended in 2014."
+  }
+}

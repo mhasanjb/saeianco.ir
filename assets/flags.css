@@ -1,0 +1,143 @@
+@font-face {
+  font-family: 'flags';
+  src:  url('flags/flags.eot?njamgl');
+  src:  url('flags/flags.eot?njamgl#iefix') format('embedded-opentype'),
+    url('flags/flags.ttf?njamgl') format('truetype'),
+    url('flags/flags.woff?njamgl') format('woff'),
+    url('flags/flags.svg?njamgl#flags') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.flags {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'flags' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flag-china .path1:before {
+  content: "\ea70";
+  color: rgb(216, 0, 39);
+}
+.flag-china .path2:before {
+  content: "\ea71";
+  margin-left: -1em;
+  color: rgb(255, 218, 68);
+}
+.flag-china .path3:before {
+  content: "\ea72";
+  margin-left: -1em;
+  color: rgb(255, 218, 68);
+}
+.flag-china .path4:before {
+  content: "\ea73";
+  margin-left: -1em;
+  color: rgb(255, 218, 68);
+}
+.flag-china .path5:before {
+  content: "\ea74";
+  margin-left: -1em;
+  color: rgb(255, 218, 68);
+}
+.flag-china .path6:before {
+  content: "\ea75";
+  margin-left: -1em;
+  color: rgb(255, 218, 68);
+}
+.flag-iran .path1:before {
+  content: "\ebd6";
+  color: rgb(240, 240, 240);
+}
+.flag-iran .path2:before {
+  content: "\ebd7";
+  margin-left: -1em;
+  color: rgb(216, 0, 39);
+}
+.flag-iran .path3:before {
+  content: "\ebd8";
+  margin-left: -1em;
+  color: rgb(109, 165, 68);
+}
+.flag-iran .path4:before {
+  content: "\ebd9";
+  margin-left: -1em;
+  color: rgb(216, 0, 39);
+}
+.flag-united-kingdom .path1:before {
+  content: "\eefb";
+  color: rgb(240, 240, 240);
+}
+.flag-united-kingdom .path2:before {
+  content: "\eefc";
+  margin-left: -1em;
+  color: rgb(0, 82, 180);
+}
+.flag-united-kingdom .path3:before {
+  content: "\eefd";
+  margin-left: -1em;
+  color: rgb(0, 82, 180);
+}
+.flag-united-kingdom .path4:before {
+  content: "\eefe";
+  margin-left: -1em;
+  color: rgb(0, 82, 180);
+}
+.flag-united-kingdom .path5:before {
+  content: "\eeff";
+  margin-left: -1em;
+  color: rgb(0, 82, 180);
+}
+.flag-united-kingdom .path6:before {
+  content: "\ef00";
+  margin-left: -1em;
+  color: rgb(0, 82, 180);
+}
+.flag-united-kingdom .path7:before {
+  content: "\ef01";
+  margin-left: -1em;
+  color: rgb(0, 82, 180);
+}
+.flag-united-kingdom .path8:before {
+  content: "\ef02";
+  margin-left: -1em;
+  color: rgb(0, 82, 180);
+}
+.flag-united-kingdom .path9:before {
+  content: "\ef03";
+  margin-left: -1em;
+  color: rgb(0, 82, 180);
+}
+.flag-united-kingdom .path10:before {
+  content: "\ef04";
+  margin-left: -1em;
+  color: rgb(216, 0, 39);
+}
+.flag-united-kingdom .path11:before {
+  content: "\ef05";
+  margin-left: -1em;
+  color: rgb(216, 0, 39);
+}
+.flag-united-kingdom .path12:before {
+  content: "\ef06";
+  margin-left: -1em;
+  color: rgb(216, 0, 39);
+}
+.flag-united-kingdom .path13:before {
+  content: "\ef07";
+  margin-left: -1em;
+  color: rgb(216, 0, 39);
+}
+.flag-united-kingdom .path14:before {
+  content: "\ef08";
+  margin-left: -1em;
+  color: rgb(216, 0, 39);
+}
